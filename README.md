@@ -1,4 +1,5 @@
 # IMDB_movies_Dashboard 
+🎯Output image link - https://drive.google.com/file/d/1-nnololiiPtIncVKwDVlJaa8kEcRV15X/view?usp=sharing
 🎯The dataset contains a list of top 1000 movies according to their IMDb ratings. </br>
 🎯We can individually check each movie's **Year of Release, Genre, Stars, movie Duration, IMDb rating, Gross Collection, votes and Meta score**  as we enter the movie name in ***Title*** section.</br>
 🎯This is a dynamic dashboards that draws data from the following dataset : https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows</br>
